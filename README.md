@@ -1,0 +1,2 @@
+# Wilbur-Terraria-Mod
+This is a mod in Terraria that adds the Wilbur Vanity Set and adds a weapon called the Interceptor that shoots flaming footballs.
