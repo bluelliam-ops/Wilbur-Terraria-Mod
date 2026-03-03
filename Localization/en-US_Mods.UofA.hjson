@@ -1,0 +1,23 @@
+Items: {
+	Wilburs_Boots: {
+		DisplayName: Wilbur's Boots
+		Tooltip: ""
+	}
+
+	Wilburs_Breastplate: {
+		DisplayName: Wilbur's Breastplate
+		Tooltip: ""
+	}
+
+	Wilburs_Mask: {
+		DisplayName: Wilbur's Mask
+		Tooltip: ""
+	}
+
+	Interceptor: {
+		DisplayName: Interceptor
+		Tooltip: ""
+	}
+}
+
+Projectiles.Football.DisplayName: Football

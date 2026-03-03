@@ -1,0 +1,3 @@
+displayName = UofA Wilbur
+author = bluemakesmods
+version = 0.1
